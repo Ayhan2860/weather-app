@@ -81,3 +81,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+<br/>
+<hr/>
+
+# Thanks You To My Insructors
+
+- [Hakan YALÇINKAYA](https://www.linkedin.com/in/hakanyalcinkaya)
+
+- [Mehmet SEVEN](https://www.linkedin.com/in/sevenmehmet)
