@@ -1,5 +1,5 @@
 ## About The Project
-This project was developed using [OpenWeather](https://openweathermap.org/) Api.
+This project was developed using [OpenWeather](https://openweathermap.org/) Api and [React.js](https://reactjs.org/).
 
 According to the user's desired location
 It is to list the eight daily weather report.
