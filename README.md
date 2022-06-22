@@ -2,7 +2,7 @@
 This project was developed using [OpenWeather](https://openweathermap.org/) Api.
 
 According to the user's desired location
-It is to list the daily weather report.
+It is to list the eight daily weather report.
 
 <br/>
 <hr/>
